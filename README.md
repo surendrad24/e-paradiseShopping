@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-Experience the application firsthand: [e-Paradise Shopping Live Demo](https://ryanl2004.github.io/e-paradiseShopping/)
+Experience the application firsthand: [e-Paradise Shopping Live Demo](https://surendrad24.github.io/e-paradiseShopping/)
 
 ---
 
@@ -78,7 +78,7 @@ To set up the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/RyanL2004/e-paradiseShopping.git
+   git clone https://github.com/surendrad24/e-paradiseShopping.git
    ```
 2. **Navigate to the project directory**:
    ```bash
@@ -166,9 +166,9 @@ This project is licensed under the [Apache-2.0 License](LICENSE).
 
 For any questions or suggestions, feel free to reach out:
 
-- **GitHub Issues**: [Create an issue](https://github.com/RyanL2004/e-paradiseShopping/issues)
-- **Email**: rayanlouahche2004@gmail.com
-- **LinkedIn**: [Rayan's Profile](https://www.linkedin.com/in/rayan-louahche/)
+- **GitHub Issues**: [Create an issue](https://github.com/surendrad24/e-paradiseShopping/issues)
+- **Email**: surendrad24@gmail.com
+- **LinkedIn**: [Rayan's Profile](https://www.linkedin.com/in/surendrad24/)
 
 ---
 
