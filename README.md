@@ -168,7 +168,7 @@ For any questions or suggestions, feel free to reach out:
 
 - **GitHub Issues**: [Create an issue](https://github.com/surendrad24/e-paradiseShopping/issues)
 - **Email**: surendrad24@gmail.com
-- **LinkedIn**: [Rayan's Profile](https://www.linkedin.com/in/surendrad24/)
+- **LinkedIn**: [Surendra's Profile](https://www.linkedin.com/in/surendrad24/)
 
 ---
 
